@@ -19,8 +19,8 @@ $config = [
 	'awssdk' => [
             'class' => 'fedemotta\awssdk\AwsSdk',
             'credentials' => [ //you can use a different method to grant access
-                'key' => 'AKIAIUFCEGDX266U3LLQ',
-                'secret' => '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',
+                'key' => 'AKIAI3HDQABXMI5QV5QQ',
+                'secret' => '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',
             ],
             'region' => 'us-west-2', //i.e.: 'us-east-1'
             'version' => 'latest', //i.e.: 'latest'
